@@ -1,0 +1,77 @@
+[
+  {
+    "familyName": "Computer Science",
+    "value": [
+      "Microservices",
+      "Domain Driven Design",
+      "Hexagonal Architecture",
+      "T.D.D.",
+      "REST",
+      "Web Service (SOAP)"
+    ]
+  },
+  {
+    "familyName": "Languages",
+    "value": [
+      "Java",
+      "Kotlin",
+      "JavaScript",
+      "SQL",
+      "GO"
+    ]
+  },
+  {
+    "familyName": "AWS",
+    "value": [
+      "EC2",
+      "S3",
+      "SQS",
+      "Lambda"
+    ]
+  },  {
+    "familyName": "Main Frameworks/Libraries",
+    "value": [
+      "J2EE",
+      "Apache Maven",
+      "ReactJS",
+      "Reactor"
+    ]
+  },
+  {
+    "familyName": "Agile",
+    "value": [
+      "Scrum"
+    ]
+  },
+  {
+    "familyName": "DevOps",
+    "value": [
+      "AWS cli",
+      "Ansible"
+    ]
+  },
+  {
+    "familyName": "Cloud Native",
+    "value": [
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "Istio"
+    ]
+  },
+  {
+    "familyName": "Spring",
+    "value": [
+      "Spring Core",
+      "Spring Web",
+      "Spring WebFlux",
+      "Spring Security",
+      "Spring Integration",
+      "Spring Data(JPA, MongoDB, Cassandra)",
+      "Spring Boot",
+      "Spring Cloud"
+    ]
+  }
+]
+
+

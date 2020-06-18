@@ -1,0 +1,13 @@
+In Geo-Consulting I was involved in many
+activities like poc development, software
+analyst, design software architecture and
+so on. The more valuable product
+developed was a transaction manager for
+SAP. It was developed on top of the official
+SapJCo, this module was the foundation
+for almost all integration projects
+between SAP and the external “World”
+like Alfresco, Magento and custom
+systems. I was also the technical
+leader/coach for all the new junior
+engineer hired in the company.

@@ -1,0 +1,26 @@
+{
+  "firstName": "Valerio",
+  "lastName": "Vaudi",
+  "address": "Ennio Ferrari street",
+  "zip": "22100",
+  "city": "Como",
+  "region": "Como",
+  "mail": "valerio.vaudi@gmail.com",
+  "mobile": "3392381976",
+  "skype": "valerio8800",
+  "birthDate": "14/12/1985",
+  "state": "Italy",
+  "sex": "Male",
+  "taxCode": "VDAVLR85T14A323Q",
+  "medias": [
+    {
+      "stack-overflow": "https://stackoverflow.com/users/5587542/valerio-vaudi"
+    },
+    {
+      "linkedin": "https://www.linkedin.com/in/valerio-vaudi-94880161/"
+    },
+    {
+      "github": "https://github.com/mrFlick72"
+    }
+  ]
+}
